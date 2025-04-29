@@ -1,0 +1,38 @@
+div{
+    height: 300px;
+    width: 400px;
+    background-color: hwb(0 86% 8%);
+    margin: auto;
+    text-align: center;
+    padding: 100px;
+    box-shadow:  0 4px 8px black; 
+    text-transform: uppercase;
+    text-decoration: underline;
+   text-overflow: inherit;
+
+}
+
+.sec{
+    height: 300px;
+    width: 400px;
+    background-color: hwb(0 86% 8%);
+    margin: auto;
+    text-align: center;
+    padding: 100px;
+    box-shadow:  0 4px 8px black; 
+
+}
+.sec2{
+
+        height: 300px;
+        width: 400px;
+        background-color: hwb(0 86% 8%);
+        margin: auto;
+        text-align: center;
+        padding: 100px;
+        box-shadow:  0 4px 8px black; 
+
+}
+body{
+    background-color: rgb(250, 247, 253);
+}
